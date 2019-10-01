@@ -1,5 +1,5 @@
 use std::io::Cursor;
-use wordcount::*;
+use bicycle_book_wordcount::*;
 
 #[macro_use]
 mod utils;
