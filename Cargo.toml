@@ -1,8 +1,15 @@
 [package]
 name = "wordcount"
 version = "0.1.0"
-authors = ["mito <mito@laki.jp>"]
+authors = ["mitoneko"]
 edition = "2018"
+
+license = "MIT or Apache-2.0"
+discription = "単語を計測します。リポジトリ仕様の演習です。"
+readme = "README.md"
+repository = "https::github.com/mitoneko/wordcount"
+categores = ["command-line-utilities"]
+keywords = ["example","exercises"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
